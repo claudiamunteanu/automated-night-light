@@ -44,12 +44,12 @@ The `CompanionApp` project will run on the companion device e.g. Android phone.
 
 ## Running
 
-To run the `ConsoleApp` module on a Raspberry Pi 4B board:
+To run the `ConsoleApp` project on your Android phone:
 1. Deploy and run the `ConsoleApp` project
 2. Verify that input is received from the broker
 3. Verify that the flashlight is enabled when it's dark and disabled when there's light
 
-To run the `companionApp` module on your Android phone:
+To run the `LightSensorApp` module on a Raspberry Pi 4B board:
 
 1. Run the following command from the terminal:
   ```
