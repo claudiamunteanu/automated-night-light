@@ -1,15 +1,9 @@
 # Automated Night Light
 This project turns the user's phone into an automatic night-light. When the sensor will detect that the room is too dark, the phone’s flashlight will turn on automatically, and vice-versa: when the room is light up again, the phone’s flashlight will turn off.
 
-## Screenshots
-
-![Doorbell sample demo][demo-gif]
-
-[(Watch the demo on YouTube)][demo-yt]
-
 ## Schematics
 
-![Schematics](schematics.png)
+![Schematics](schematics.jpg)
 
 ## Pre-requisites
 
