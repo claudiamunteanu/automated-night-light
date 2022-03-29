@@ -3,7 +3,7 @@ This project turns the user's phone into an automatic night-light. When the sens
 
 ## Schematics
 
-![Schematics](schematics.jpg)
+![Schematics](schematics.png)
 
 ## Pre-requisites
 
