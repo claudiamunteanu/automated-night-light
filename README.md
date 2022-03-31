@@ -6,8 +6,10 @@ This project turns the user's phone into an automatic night-light. The board use
 ![Schematics](schematics.png)
 
 ## Pre-requisites
-- Raspberry Pi 4B board
-- Android Studio (I'm using Android Studio Artic Fox)
+- [Raspberry Pi 4B board](https://www.raspberrypi.com/products/raspberry-pi-4-model-b/)
+- [Eclipse Moquitto MQTT Broker](https://mosquitto.org/download/)
+- [Android Studio](https://developer.android.com/studio) (I'm using Android Studio Artic Fox)
+- An Android phone with a minimum API level of 27 (Android 8)
 - The following individual components:
     - LDR module
     - jumper wires
