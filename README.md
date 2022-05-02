@@ -1,13 +1,15 @@
 # Automated Night Light
-This project turns the user's phone into an automatic night-light. When the sensor will detect that the room is too dark, the phone’s flashlight will turn on automatically, and vice-versa: when the room is light up again, the phone’s flashlight will turn off.
+This project turns the user's phone into an automatic night-light. The board uses a sensor, which detects the light levels in the room. When the sensor will detect that the room is too dark, the phone’s flashlight will turn on automatically, and vice-versa: when the room is light up again, the phone’s flashlight will turn off.
 
 ## Schematics
 
 ![Schematics](schematics.png)
 
 ## Pre-requisites
-- Raspberry Pi 4B board
-- Android Studio (I'm using Android Studio Artic Fox)
+- [Raspberry Pi 4B board](https://www.raspberrypi.com/products/raspberry-pi-4-model-b/)
+- [Eclipse Moquitto MQTT Broker](https://mosquitto.org/download/)
+- [Android Studio](https://developer.android.com/studio) (I'm using Android Studio Artic Fox)
+- An Android phone with a minimum API level of 27 (Android 8)
 - The following individual components:
     - LDR module
     - jumper wires
