@@ -8,6 +8,8 @@
 [![LinkedIn][linkedin-shield]][linkedin-url]
 
 # Automated Night Light
+Raspberry Pi project created for the "Android Things" course at my university in my third year.
+
 This project turns the user's phone into an automatic night-light. The board uses a sensor, which detects the light levels in the room. When the sensor will detect that the room is too dark, the phone’s flashlight will turn on automatically, and vice-versa: when the room is light up again, the phone’s flashlight will turn off.
 
 <!-- TABLE OF CONTENTS -->
