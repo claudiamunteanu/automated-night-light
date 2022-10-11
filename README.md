@@ -42,9 +42,13 @@ This project turns the user's phone into an automatic night-light. The board use
 * [![Mosquitto][Mosquitto.org]][Mosquitto-url]
 * [![Python][Python.org]][Python-url]
 
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
 ## Schematics
 
 ![Schematics](schematics.png)
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 ## Prerequisites
 - [Raspberry Pi 4B board](https://www.raspberrypi.com/products/raspberry-pi-4-model-b/)
@@ -55,6 +59,8 @@ This project turns the user's phone into an automatic night-light. The board use
     - LDR module
     - jumper wires
     - 1 breadboard
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 ## Setup and Build
 
@@ -85,6 +91,8 @@ To setup, follow these steps below.
 
 The `CompanionApp` project will run on the companion device e.g. Android phone.
 
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
 ## Running
 
 To run the `ConsoleApp` project on your Android phone:
@@ -99,6 +107,8 @@ To run the `LightSensorApp` module on a Raspberry Pi 4B board:
   python3 main.py
   ```
 2. Verify that the sensor works and the program is printing the analog values
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 <!-- LICENSE -->
 ## License
