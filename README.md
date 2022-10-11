@@ -131,7 +131,7 @@ Project Link: [https://github.com/claudiamunteanu/automated-night-light](https:/
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
 [license-shield]: https://img.shields.io/github/license/claudiamunteanu/automated-night-light.svg?style=for-the-badge
-[license-url]: https://github.com/claudiamunteanu/automated-night-light/blob/master/LICENCE.txt
+[license-url]: https://github.com/claudiamunteanu/automated-night-light/blob/master/LICENSE.txt
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
 [linkedin-url]: https://linkedin.com/in/claudiamunteanu
 [Android.com]: https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white
